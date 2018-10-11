@@ -1,0 +1,6 @@
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/bin/CellAutomata.dll
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/bin/CellAutomata.pdb
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/obj/Debug/CellAutomata.csproj.CoreCompileInputs.cache
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/obj/Debug/CellAutomata.dll
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/obj/Debug/CellAutomata.pdb
+/Users/edwardcarron/Projects/CellAutomata/CellAutomata/obj/Debug/CellAutomata.csprojResolveAssemblyReference.cache
